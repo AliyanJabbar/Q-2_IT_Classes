@@ -1,0 +1,17 @@
+global state & global variable 
+
+in next.js the global variable does not re-render the component while the global state re-render the component
+
+
+big level pe global state ko manage krne ke liye redux use karte hain 
+
+small level pe context API, Jotai wagera use kr sakte hain.
+
+
+in today's class we will use jotai
+
+
+microsoft store se python 12 download.
+
+
+react hook form 

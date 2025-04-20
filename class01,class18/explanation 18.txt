@@ -1,0 +1,4 @@
+What is Payment Gateway: A "digital Cashier" that securely processes online payments.
+Example: Like a waiter taking your card at a restaurant, but online!
+
+Stripe ki secret keys sirf server components me use hoti hain because of security.

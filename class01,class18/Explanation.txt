@@ -1,0 +1,13 @@
+React is a javascript Library.
+
+React divides work in micro tasks. 
+
+mobile and web dono ke UI bana sakte hain React se.
+
+it is not necessary to learn React for next.js. When we learn next.js it will say first learn next.js.
+
+if we want to write pure react than we have to use tools like vite or parcel.
+
+next full stack framework a react ka.
+
+next.js provide basic structure require for making or maintaining a website.

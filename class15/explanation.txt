@@ -1,0 +1,13 @@
+authentication => ap kon ho. Who are you
+
+authorization => ap kia kr sakte ho. What you can do
+
+jose is the library of JWT Json Web Token
+
+command to install jose => npm i jose --force
+
+for documentation go to npm jose and then signing
+
+next.js prefer cookies to store data instead of local storage because the third party extensions like ad blocker etc have access to local storage but not cookies
+
+for the verification of jwt we use verify folder of the repo

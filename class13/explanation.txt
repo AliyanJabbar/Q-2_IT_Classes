@@ -1,0 +1,9 @@
+Today's topic: all about API
+
+app ke andar api ka folder. api ke andar jis ki api bana rhe hain us ka folder, here : books
+
+inside that folder make a route.ts file
+
+Route.ts ke andar woh sara code likhen ge jo show krna hai jab bhi koi /api/[foldername] ke andar jae ga
+
+API is a function

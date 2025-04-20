@@ -1,0 +1,13 @@
+CMS: Content Management System
+
+Head less CMS : means no Frontend(no UI) only backend
+
+Why use Sanity: Sanity have a good volume(quantity) of amazing components and feature.
+
+When Use CMS(Sanity): Sanity is used when we want to give access to the client that he or she can modify or manipulte content([data,text,images])
+
+Studio route is a private route that we have to access using credentials(login)
+
+Schema is an object which requires 4 things name type title and fields.
+
+fields is also an object containing 3 things name type and title.

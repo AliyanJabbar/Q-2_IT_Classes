@@ -1,0 +1,5 @@
+dynamic page ki html on demand banti hai jabke static page ki html bani hoi hoti hai.
+
+to get the data from .env file we use process.env.[data]
+
+the .env variable which starts from NEXT_PUBLIC_ can be accessed in both client and server components but the variables which do not start with it will only accessed in server components, and not in client components or pages

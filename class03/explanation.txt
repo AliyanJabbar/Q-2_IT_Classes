@@ -1,0 +1,9 @@
+dependencies = is ki madad se website chale gi means website us pe dependant hai.
+
+devDependencies = code likhne me kaam ati hain. or devDependencies means ke developer un pe dependant hai.
+
+
+
+
+
+

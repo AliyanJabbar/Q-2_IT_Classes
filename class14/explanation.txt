@@ -1,0 +1,3 @@
+serverless means ke data hume manage krne ki need nhi
+
+Neon will manage the servers base on the rush the website gains

@@ -1,0 +1,7 @@
+esLint is the standard of writing code.
+
+component ke zariye hum website ko micro services me tod sakte hain.
+
+parameter and argument ke concept ko react me props kehte hain.
+
+props's full form is Properties or in common language it is argument 

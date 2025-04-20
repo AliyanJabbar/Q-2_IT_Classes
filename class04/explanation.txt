@@ -1,0 +1,8 @@
+Static Page: Already Decide hai (te) hai.
+Ager Static hai to forun khul jae ga.
+
+Dynamic Page: On request ager render kare.
+Ager Dynamic hai to thoda time lega kiunke dynamic me as per request banta hai.
+
+Layout: view point
+Page.tsx: End point
